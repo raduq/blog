@@ -9,7 +9,7 @@ action "hugo-deploy-gh-pages" {
     "TOKEN"
   ]
   env = {
-    HUGO_VERSION = "0.53"
+    HUGO_VERSION = "0.54"
     TARGET_REPO = "raduq/raduq.github.io"
   }
 }
