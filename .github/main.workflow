@@ -11,6 +11,5 @@ action "hugo-deploy-gh-pages" {
   env = {
     HUGO_VERSION = "0.53"
     TARGET_REPO = "raduq/raduq.github.io"
-    GITHUB_ACTOR = "raduq"
   }
 }
