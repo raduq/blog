@@ -7,6 +7,4 @@ draft: false
 # About Me
 
 Raduan Silva dos Santos
-Working @CodeNomads
-Amsterdam - Netherlands
-
+Working @CodeNomads - Amsterdam
