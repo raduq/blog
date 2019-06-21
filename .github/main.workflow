@@ -6,7 +6,7 @@ workflow "Deploy to GitHub Pages" {
 action "hugo-deploy-gh-pages" {
   uses = "khanhicetea/gh-actions-hugo-deploy-gh-pages@master"
   secrets = [
-    "GIT_DEPLOY_KEY"
+    "TOKEN"
   ]
   env = {
     HUGO_VERSION = "0.53"
