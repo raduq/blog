@@ -6,7 +6,7 @@ draft: false
 
 # About Me
 
-Raduan S. Santos
+Raduan Silva dos Santos
 Working @CodeNomads
 Amsterdam - Netherlands
 
