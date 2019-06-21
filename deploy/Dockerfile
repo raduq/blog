@@ -9,5 +9,5 @@ LABEL "repository"="http://github.com/raduq/blog"
 LABEL "homepage"="http://github.com/actions"
 LABEL "maintainer"="Raduan <raduq@gmail.com>"
 
-ADD deploy.sh /deploy.sh
-ENTRYPOINT ["/deploy.sh"]
+ADD entrypoint.sh /entrypoint.sh
+ENTRYPOINT ["/entrypoint.sh"]
