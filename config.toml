@@ -33,6 +33,18 @@ canonifyurls = true
 	weight = 2
 	url = "https://twitter.com/raduq"
 
+[[params.social]]
+	name = "Email"
+	icon = "fab fa-email fa-2x"
+	weight = 3
+	url = "raduq00@gmail.com"
+
+[[params.social]]
+	name = "LinkedIn"
+	icon = "fab fa-linkedin fa-2x"
+	weight = 4
+	url = "https://www.linkedin.com/in/raduan-santos"
+
 [[menu.main]]
 	name = "Blog"
 	weight = 1
