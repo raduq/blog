@@ -35,7 +35,7 @@ canonifyurls = true
 
 [[params.social]]
 	name = "Email"
-	icon = "fab fa-email fa-2x"
+	icon = "fab fa-envelope fa-2x"
 	weight = 3
 	url = "raduq00@gmail.com"
 
