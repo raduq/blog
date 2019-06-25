@@ -12,17 +12,22 @@ Living in Amsterdam - Netherlands
 
 ## Professional Background
 
-*  **10/2018 ~ Present** : CodeNomads, Amsterdam - Netherlands; Fullstack Software Engineer, working mostly with Java 8+ and Javascript with Polymer and vanilla webcomponents.
-*  **03/2017 ~ 08/2018** : ContaAzul, Joinville - Brazil; Software Engineer, working mostly with RESTFull API development with Java, GO  and Amazon AWS.
-*  **08/2012 ~ 02/2017** : Softplan Poligraph, Florianópolis - Brazil;
+*  **Oct/2018 ~ Present** : CodeNomads, Amsterdam - Netherlands; Fullstack Software Engineer, working mostly with Java 8+ and Javascript with Polymer and vanilla webcomponents.
+*  **Mar/2017 ~ Aug/2018** : ContaAzul, Joinville - Brazil; Software Engineer, working mostly with RESTFull API development with Java, GO  and Amazon AWS.
+*  **Aug/2012 ~ Feb/2017** : Softplan Poligraph, Florianópolis - Brazil;
 Software Developer, working mostly in an RESTFull application for documents management, with Java and frontend AngularJS.
-*  **08/2010 ~ 01/2012** : Digitaldoc, Medianeira - Brazil; Software Developer, working mostly with Java and Java Server Faces in a documents management application.
+*  **Aug/2010 ~ Jan/2012** : Digitaldoc, Medianeira - Brazil; Software Developer, working mostly with Java and Java Server Faces in a documents management application.
 
 ## Academic Background
 
-//TODO
+*  UTFPR - Federal University of Technology - Paraná - Brazil :
+Technology in Systems Analysis and Development, 2006 ~ 2012.
 
 ## Hobbies
 
-//TODO
+* Games : PS4+, Nintendo Switch and 3DS, PC.
+* Drawing
+* Painting : //TODO
+* Music: Guitar, Keyboard
+* Swimming
 
