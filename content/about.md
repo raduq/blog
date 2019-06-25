@@ -10,6 +10,11 @@ Working [@CodeNomads](https://codenomads.nl)
 
 Living in Amsterdam - Netherlands
 
+## Contact
+
+*  raduq00@gmail.com
+*  https://www.linkedin.com/in/raduan-santos
+
 ## Professional Background
 
 *  **Oct/2018 ~ Present** : CodeNomads, Amsterdam - Netherlands; Fullstack Software Engineer, working mostly with Java 8+ and Javascript with Polymer and vanilla webcomponents.
